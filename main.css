@@ -11,6 +11,11 @@
     box-sizing: border-box;
 }
 
+.img-block{
+  display: block;
+  max-width: 700px;
+}
+
 .grid {
     margin: 0 auto;
     max-width: 960px;
