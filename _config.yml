@@ -1,0 +1,15 @@
+# site settings
+title: Toadstools (Home)
+author: Kyle Thomas Raymond
+description: "Art and writing that's broken through the Raymond Reserve"
+
+# build settings
+port: 4000
+highlighter: pygments
+markdown: kramdown
+permalink: "/:categories/:year/:title"
+paginate: 5
+paginate_path: "/:num"
+gems: [jekyll-paginate]
+instagram: kyletraymond
+github: kyletraymond
